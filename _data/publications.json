@@ -1,0 +1,16 @@
+[
+
+    {
+        "id": "pmf",
+        "title": "Robust procedural model fitting with a new geometric similarity estimator",
+        "authors": ["Zongliang Zhang", "Jonathan Li", "Yulan Guo", "Xin Li", "Yangbin Lin", "Guobao Xiao", "Cheng Wang"],
+        "venue": "Pattern Recognition",
+        "date": "2018-07-22",
+        "links" : [
+            {"type": "link", "name": "web", "target": "https://doi.org/10.1016/j.patcog.2018.07.027"},
+            {"type": "pdf"},
+            {"type": "link", "name": "code", "target": "https://github.com/zhangzongliang/pmf"}
+        ]
+    }  
+    
+]
