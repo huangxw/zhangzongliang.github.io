@@ -7,8 +7,8 @@
         "venue": "Pattern Recognition",
         "date": "2018-07-22",
         "links" : [
-            {"type": "pdf"},
-            {"type": "link", "name": "doi", "target": "https://doi.org/10.1016/j.patcog.2018.07.027"},            
+            {"type": "link", "name": "doi", "target": "https://doi.org/10.1016/j.patcog.2018.07.027"},
+            {"type": "pdf"},                        
             {"type": "link", "name": "code", "target": "https://github.com/zhangzongliang/pmf"}
         ]
     }  
