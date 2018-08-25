@@ -44,8 +44,8 @@ layout: default
 				{% assign firstlink = pub.links[0] %}
 				{% if firstlink.target %}
 					{{ firstlink.target }}
-				{% elsif firstlink.type == 'pdf(preprint)' %}
-					preprint/{{ pub.id }}.pdf
+				{% elsif firstlink.type == 'pdf' %}
+					pdf/{{ pub.id }}.pdf
 				{% else %}
 					/
 				{% endif %}
