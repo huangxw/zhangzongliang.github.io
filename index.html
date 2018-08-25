@@ -44,7 +44,7 @@ layout: default
 				{% assign firstlink = pub.links[0] %}
 				{% if firstlink.target %}
 					{{ firstlink.target }}
-				{% elsif firstlink.type == 'pdf' %}
+				{% elsif firstlink.type == 'preprint' %}
 					pdf/{{ pub.id }}.pdf
 				{% else %}
 					/
