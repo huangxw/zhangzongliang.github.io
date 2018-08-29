@@ -7,7 +7,7 @@
         "venue": "Pattern Recognition 2019",
         "date": "2018-07-22",
         "links" : [
-            {"type": "link", "name": "paper (final)", "target": "https://doi.org/10.1016/j.patcog.2018.07.027"},
+            {"type": "link", "name": "paper (final)", "target": "https://www.sciencedirect.com/science/article/pii/S0031320318302619"},
             {"type": "link", "name": "paper (preprint)", "target": "/pdf/pmf.pdf"},                 
             {"type": "link", "name": "code", "target": "https://github.com/zhangzongliang/pmf"}
         ]
