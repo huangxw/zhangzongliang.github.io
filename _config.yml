@@ -4,3 +4,6 @@ title: Zongliang Zhang
 
 collections:
 - news
+
+gems:
+  - jekyll-last-modified-at
