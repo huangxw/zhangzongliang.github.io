@@ -11,6 +11,19 @@
             {"type": "link", "name": "paper (preprint)", "target": "/pdf/pmf.pdf"},                 
             {"type": "link", "name": "code", "target": "https://github.com/zhangzongliang/pmf"}
         ]
+    },  
+
+    {
+        "id": "similarity",
+        "title": "A Fast Method for Measuring the Similarity Between 3D Model and 3D Point Cloud",
+        "authors": ["Zongliang Zhang", "Jonathan Li*", "Xin Li", "Yangbin Lin", "Shanxin Zhang", "Cheng Wang"],
+        "venue": "ISPRS Archives 2016",
+        "date": "2016-07-12",
+        "links" : [
+            {"type": "link", "name": "doi", "target": "https://doi.org/10.5194/isprs-archives-XLI-B1-725-2016"},
+            {"type": "pdf"},          
+            {"type": "link", "name": "code", "target": "https://github.com/zhangzongliang/pmf"}
+        ]
     }  
     
 ]
