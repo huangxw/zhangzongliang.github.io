@@ -14,6 +14,19 @@
     },  
 
     {
+        "id": "ppgmf",
+        "title": "Partial Procedural Geometric Model Fitting for Point Clouds",
+        "authors": ["Zongliang Zhang", "Jonathan Li*", "Yulan Guo", "Yangbin Lin", "Ming Cheng", "Cheng Wang"],
+        "venue": "arXiv 2016",
+        "date": "2016-10-17",
+        "links" : [
+            {"type": "link", "name": "arXiv", "target": "https://arxiv.org/abs/1610.04936"},
+            {"type": "pdf"},          
+            {"type": "link", "name": "code", "target": "https://github.com/zhangzongliang/pmf"}
+        ]
+    },
+
+    {
         "id": "similarity",
         "title": "A Fast Method for Measuring the Similarity Between 3D Model and 3D Point Cloud",
         "authors": ["Zongliang Zhang", "Jonathan Li*", "Xin Li", "Yangbin Lin", "Shanxin Zhang", "Cheng Wang"],
@@ -23,6 +36,30 @@
             {"type": "link", "name": "doi", "target": "https://doi.org/10.5194/isprs-archives-XLI-B1-725-2016"},
             {"type": "pdf"},          
             {"type": "link", "name": "code", "target": "https://github.com/zhangzongliang/pmf"}
+        ]
+    },
+
+    {
+        "id": "automated",
+        "title": "Automated segmentation of LiDAR point clouds for building rooftop extraction",
+        "authors": ["Yi Sun", "Cheng Wang", "Jonathan Li", "Zongliang Zhang", "Dawei Zai", "Pengdi Huang", "Chenglu Wen"],
+        "venue": "IGARSS 2016",
+        "date": "2016-07-10",
+        "links" : [
+            {"type": "link", "name": "doi", "target": "https://doi.org/10.1109/IGARSS.2016.7729376"},
+            {"type": "pdf"}          
+        ]
+    },
+    
+    {
+        "id": "turning",
+        "title": "Turning mobile laser scanning points into 2D/3D on-road object models: Current status",
+        "authors": ["Zongliang Zhang", "Ming Cheng", "Xinqu Chen", "Menglan Zhou", "Yifei Chen", "Jonathan Li", "Hongshan Nie"],
+        "venue": "IGARSS 2015",
+        "date": "2015-07-26",
+        "links" : [
+            {"type": "link", "name": "doi", "target": "https://doi.org/10.1109/IGARSS.2015.7326581"},
+            {"type": "pdf"}        
         ]
     }  
     
