@@ -1,4 +1,15 @@
 [
+    {
+        "id": "mmf",
+        "title": "Geometric Multi-Model Fitting by Deep Reinforcement Learning",
+        "authors": ["Zongliang Zhang", "Hongbin Zeng", "Jonathan Li*", "Yiping Chen", "Chenhui Yang", "Cheng Wang"],
+        "venue": "arXiv 2018",
+        "date": "2018-09-22",
+        "links" : [
+            {"type": "link", "name": "arXiv", "target": "https://arxiv.org/abs/1809.08397"},
+            {"type": "pdf"}          
+        ]
+    },  
 
     {
         "id": "pmf",
