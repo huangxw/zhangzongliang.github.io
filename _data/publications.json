@@ -1,4 +1,15 @@
 [
+   {
+        "id": "curve",
+        "title": "3D Highway Curve Reconstruction From Mobile Laser Scanning Point Clouds",
+        "authors": ["Zongliang Zhang", "Jonathan Li*", "Yulan Guo", "Chenhui Yang", "Cheng Wang"],
+        "venue": "IEEE Transactions on Intelligent Transportation Systems 2019",
+        "date": "2019-10-23",
+        "links" : [
+            {"type": "link", "name": "paper", "target": "https://ieeexplore.ieee.org/document/8880591"},  
+        ]
+    },  
+    
     {
         "id": "mmf",
         "title": "Geometric Multi-Model Fitting by Deep Reinforcement Learning",
